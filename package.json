@@ -1,0 +1,9 @@
+{
+  "name": "renovate-pnpm-pmonfail-repro",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "pnpm@12.14.0",
+  "dependencies": {
+    "is-odd": "3.0.1"
+  }
+}
